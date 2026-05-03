@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title>Lady's slipper orchid placeholder icon</title>
+  <rect width="96" height="96" rx="24" fill="#f6dff0"/>
+  <ellipse cx="48" cy="24" rx="14" ry="12" fill="#c6689f"/>
+  <ellipse cx="32" cy="40" rx="12" ry="10" fill="#d980b1"/>
+  <ellipse cx="64" cy="40" rx="12" ry="10" fill="#d980b1"/>
+  <path d="M40 44 Q48 62 56 44 Q55 74 41 74 Z" fill="#f0c17f"/>
+  <path d="M48 56 L48 78" stroke="#5a9e67" stroke-width="5" stroke-linecap="round"/>
+</svg>

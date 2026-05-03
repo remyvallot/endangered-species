@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title>Brown bear placeholder icon</title>
+  <rect width="96" height="96" rx="24" fill="#efd3b7"/>
+  <circle cx="36" cy="30" r="10" fill="#6a422d"/>
+  <circle cx="60" cy="30" r="10" fill="#6a422d"/>
+  <circle cx="48" cy="48" r="26" fill="#7c4d32"/>
+  <circle cx="48" cy="56" r="10" fill="#d6b090"/>
+  <circle cx="39" cy="47" r="3" fill="#fff"/>
+  <circle cx="57" cy="47" r="3" fill="#fff"/>
+</svg>

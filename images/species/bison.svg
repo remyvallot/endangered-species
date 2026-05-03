@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title>European bison placeholder icon</title>
+  <rect width="96" height="96" rx="24" fill="#e7d0b4"/>
+  <path d="M24 56 L24 40 Q32 24 50 24 Q66 24 72 38 L72 58 Q64 68 48 68 Q32 68 24 56 Z" fill="#76513b"/>
+  <path d="M28 34 L18 26 M68 34 L78 26" stroke="#533525" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="40" cy="45" r="3" fill="#fff"/>
+  <circle cx="58" cy="45" r="3" fill="#fff"/>
+  <rect x="41" y="50" width="14" height="10" rx="5" fill="#d7b89a"/>
+</svg>

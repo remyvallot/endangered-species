@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title">
+  <title>Sea daffodil placeholder icon</title>
+  <rect width="96" height="96" rx="24" fill="#fff1da"/>
+  <g fill="#fffdf8">
+    <ellipse cx="48" cy="34" rx="9" ry="18"/>
+    <ellipse cx="48" cy="34" rx="9" ry="18" transform="rotate(60 48 34)"/>
+    <ellipse cx="48" cy="34" rx="9" ry="18" transform="rotate(120 48 34)"/>
+  </g>
+  <circle cx="48" cy="34" r="8" fill="#f4cf75"/>
+  <path d="M48 44 L48 72" stroke="#5a9e67" stroke-width="6" stroke-linecap="round"/>
+  <path d="M48 56 Q62 54 68 62" stroke="#5a9e67" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>
